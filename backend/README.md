@@ -2,8 +2,7 @@
 
 **Your goals will be to write code that will generate a `db/output.json` which must be exactly the same as the `db/expected_output.json` file. You will find all the data you need inside the `db/input.json` to generate the expected output**
 
-* Clone this repo (do not fork it)
-* Only do one commit per level and include the .git when submiting your test
+_Clone this repo (do not fork it)_
 
 #### Challenge 1 ####
 
