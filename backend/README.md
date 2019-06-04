@@ -2,8 +2,6 @@
 
 **Your goals will be to write code that will generate a `db/output.json` which must be exactly the same as the `db/expected_output.json` file. You will find all the data you need inside the `db/input.json` to generate the expected output**
 
-_Clone this repo (do not fork it)_
-
 #### Challenge 1 ####
 
 - You must reproduce the booking of a lesson between some teachers and students
