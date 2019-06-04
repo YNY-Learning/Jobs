@@ -1,0 +1,18 @@
+#######
+RUBY
+#######
+- What is the difference between a lambda, a block and a proc?
+
+- What are your favorite gems? Why?
+
+- How do you sort an Array of objects by a particular attribute? What is a better way to do sorting with ActiveRecord?
+
+#######
+RAILS
+#######
+
+- What is new in Rails 5 and Rails 6?
+
+- What is Rack?
+
+- Why do some people say "Rails can't scale"?

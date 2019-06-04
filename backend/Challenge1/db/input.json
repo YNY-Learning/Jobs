@@ -1,0 +1,84 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "first_name": "Luke",
+      "last_name": "Skywalker",
+      "favorite_teachers": null,
+      "week_availabilities": ["weekdays"],
+      "day_availabilities": ["anytime"],
+      "email": "luke@jedi.com",
+      "speaken_language": ["French"]
+    },
+    {
+      "id": 2,
+      "first_name": "Vincent",
+      "last_name": "Vega",
+      "favorite_teachers": null,
+      "week_availabilities": ["weekdays"],
+      "day_availabilities": ["afternoon"],
+      "email": "vincent@pulpfiction.com",
+      "speaken_language": ["French"]
+    },
+    {
+      "id": 3,
+      "first_name": "Michael",
+      "last_name": "Corleone",
+      "favorite_teachers": null,
+      "week_availabilities": ["weekend"],
+      "day_availabilities": ["evening"],
+      "email": "michael@godfather.com",
+      "speaken_language": ["French"]
+    }
+  ],
+
+  "teacher": [
+    {
+      "id": 1,
+      "first_name": "Obi-Wan",
+      "last_name": "Kenobi",
+      "week_availabilities": ["weekdays"],
+      "day_availabilities": ["morning"],
+      "email": "obi@starteacher.com",
+      "speaken_language": ["Anglais", "French"],
+      "language_teaching": 1
+    },
+    {
+      "id": 2,
+      "first_name": "Mia",
+      "last_name": "Wallace",
+      "week_availabilities": ["weekdays"],
+      "day_availabilities": ["anytime"],
+      "email": "mia@pulpteacher.com",
+      "speaken_language": ["Anglais", "French"],
+      "language_teaching": 1
+    },
+    {
+      "id": 3,
+      "first_name": "Vito",
+      "last_name": "Corleone",
+      "week_availabilities": ["weekend"],
+      "day_availabilities": ["evening"],
+      "email": "vito@godteacher.com",
+      "speaken_language": ["Anglais", "French"],
+      "language_teaching": 1
+    }
+  ],
+
+  "languages": [
+    {
+      "id": 1,
+      "code": "en",
+      "name": "Anglais",
+      "image_url": "https://s3-eu-west-1.amazonaws.com/app.speaken.com/flags/en.png",
+      "available": true
+    },
+    {
+      "id": 2,
+      "code": "fr",
+      "name": "French",
+      "image_url": "https://s3-eu-west-1.amazonaws.com/app.speaken.com/flags/en.png",
+      "available": true
+    }
+  ]
+}
