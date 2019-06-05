@@ -18,7 +18,7 @@
 
 - In this challenge, you must to generate the amount we will pay to the teachers at the end of the month
 - A teacher is paid `0.3 euro per min`
-- A teacher is not paid is the duration of the lesson is less or equal to `30 seconds`
+- A teacher is not paid if the duration of the lesson is less or equal to `30 seconds`
 
 _GOOD LUCK_
 
