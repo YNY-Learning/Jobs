@@ -1,0 +1,22 @@
+{
+  "teacher_payments": [
+    {
+      "id": 1,
+      "teacher_id": 1,
+      "amount": 40.5,
+      "created_at": "2019-06-01 08:00:00 +0200"
+    },
+    {
+      "id": 2,
+      "teacher_id": 2,
+      "amount": 79.5,
+      "created_at": "2019-06-01 08:00:00 +0200"
+    },
+    {
+      "id": 3,
+      "teacher_id": 2,
+      "amount": 79.5,
+      "created_at": "2019-06-01 08:00:00 +0200"
+    }
+  ]
+}
