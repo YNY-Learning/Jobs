@@ -8,11 +8,11 @@
 
 #### Challenge 2 ####
 
-- You must render the favorite teachers of the users
+- You must display the favorite teachers of the users
 
 #### Challenge 3 ####
 
-- You simply must to give your answer for each questions
+- You simply must give your answer for each question
 
 _GOOD LUCK_
 
